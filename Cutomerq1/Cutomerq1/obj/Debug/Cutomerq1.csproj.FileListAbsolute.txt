@@ -1,0 +1,7 @@
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\obj\Debug\Cutomerq1.csprojAssemblyReference.cache
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\obj\Debug\Cutomerq1.csproj.CoreCompileInputs.cache
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\bin\Debug\Cutomerq1.exe.config
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\bin\Debug\Cutomerq1.exe
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\bin\Debug\Cutomerq1.pdb
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\obj\Debug\Cutomerq1.exe
+C:\Users\CTEA\source\repos\Cutomerq1\Cutomerq1\obj\Debug\Cutomerq1.pdb
